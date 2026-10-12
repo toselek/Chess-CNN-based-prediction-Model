@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Chess datasets
+*.pgn
+*.pgn.zst
+*.zst
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
